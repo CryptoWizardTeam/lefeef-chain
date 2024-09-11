@@ -1,6 +1,6 @@
 #!/bin/bash
 
-KEYS[0]="CatenaFoundation"
+KEYS[0]="LefeefFoundation"
 
 CHAINID="lefeef_2121-1"
 MONIKER="lefeefteam"
